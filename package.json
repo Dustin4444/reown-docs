@@ -8,7 +8,7 @@
     "spell": "cspell '**/*.md' '**/*.mdx' "
   },
   "devDependencies": {
-    "mintlify": "latest",
+    "mintlify": "4.2.211",
     "cspell": "^8.16.1"
   }
 } 
